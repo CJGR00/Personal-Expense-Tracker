@@ -3,11 +3,7 @@
 A desktop-based **Personal Expense Tracker** built with **Python and Tkinter**. The project provides a simple graphical interface for recording everyday expenses, organizing them by category, and monitoring the accumulated total.
 
 ## Screenshots
-
-### Main Interface
-
-![Distraction-Based Reaction Game - Main Interface](assets/screenshots/MainInterface.PNG)
-
+ 
 
 ## Overview
 
@@ -60,7 +56,7 @@ assets/screenshots/MainInterface.PNG
 
 Then this image will be displayed automatically in the repository README:
 
-![Personal Expense Tracker - Main Interface](assets/screenshots/MainInterface.PNG)
+![Personal Expense Tracker - Main Interface](assets/screenshots/PETMainInterface.PNG)
 
 > **Note:** GitHub paths are case-sensitive. The filename in the README must exactly match the uploaded image filename.
 
