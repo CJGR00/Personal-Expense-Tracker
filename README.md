@@ -171,12 +171,17 @@ This project emphasizes basic human-computer interaction principles through:
 
 The visual redesign changes presentation and styling while keeping the application's original functional behavior intact.
 
-## Project Purpose
+## Academic Context
 
-The project demonstrates how a simple desktop GUI can be organized around a user-centered workflow. It focuses on making routine expense entry quick, readable, and easy to understand while applying fundamental GUI and HCI concepts.
+This project was developed for:
 
-## License
+**ITEC80D — Human Computer Interaction**  
+**Laboratory Exercise No. 1**
 
-This project can be distributed under the license selected by the repository owner.
+Developer placeholder from the original project:
 
-If this repository is intended for an academic submission, follow your instructor or institution's requirements regarding reuse, attribution, and licensing.
+**REMULLA, CHRISTIAN**
+
+## Notes for GitHub
+
+The main application file is intentionally kept as a single Python script so it remains easy to submit, run, inspect, and demonstrate in a laboratory setting. The code is organized into configuration, utility functions, UI construction, game flow, input handling, data recording, results, and application entry-point sections.
