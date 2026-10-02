@@ -48,17 +48,11 @@ The interface was redesigned while preserving the program's original behavior. T
 
 ### Main Interface
 
-Add the project screenshot to:
-
-```text
-assets/screenshots/MainInterface.PNG
-```
-
-Then this image will be displayed automatically in the repository README:
+### Screenshot
 
 ![Personal Expense Tracker - Main Interface](assets/screenshots/PETMainInterface.PNG)
 
-> **Note:** GitHub paths are case-sensitive. The filename in the README must exactly match the uploaded image filename.
+
 
 ## Project Structure
 
